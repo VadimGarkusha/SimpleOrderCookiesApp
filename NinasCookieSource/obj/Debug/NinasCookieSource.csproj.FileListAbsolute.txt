@@ -1,0 +1,10 @@
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\bin\Debug\NinasCookieSource.exe.config
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\bin\Debug\NinasCookieSource.exe
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\bin\Debug\NinasCookieSource.pdb
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.csprojResolveAssemblyReference.cache
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.Form1.resources
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.Properties.Resources.resources
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.csproj.GenerateResource.Cache
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.exe
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.pdb
+V:\колледж\Programming\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.ThanksForOrderingForm.resources
